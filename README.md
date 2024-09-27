@@ -1,4 +1,12 @@
-## Hi there 👋
+## Simi's Portfolio
+
+Hi, I'm Simi. I am an undergraduate student majoring in data science and statistics and minoring in mathematics. Here I have presented projects that demonstrate my growing skills learned through my education. 
+
+## Projects
+-[Python](#Python)
+-[RStudio](#RStudio)
+-[SQL](#SQL)
+-[Julia](#Julia)
 
 <!--
 **patel-simi/patel-simi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
