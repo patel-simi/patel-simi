@@ -5,7 +5,7 @@ Hi, I'm Simi. I am an undergraduate student majoring in data science and statist
 ## Projects
 -[Python](#Python)
 -[RStudio](#RStudio)
--[C] (#C)
+-[C](#C)
 -[SQL](#SQL)
 -[Julia](#Julia)
 
