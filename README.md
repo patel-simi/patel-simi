@@ -11,7 +11,7 @@ Hi, I'm Simi. I am an undergraduate student majoring in data science and statist
 ## Python
 Project | Analysis and Composition | Projection Description
 ---|---|---|
-Image MNIST Classification| CNN, Normalization, Confusion Matrix | Takes the builtin TensorFlow dataset, MNIST, and applied the Convolutional Neural Network to test the accuracy at detecting the handwritten digits with a 99% accuracy. This model consists of techniques that prevent the overfitting of the model with the assistance of batch normalizaiton, and dropout methods. 
+Image MNIST Classification(#image-mnist-classification)| CNN, Normalization, Confusion Matrix | Takes the builtin TensorFlow dataset, MNIST, and applied the Convolutional Neural Network to test the accuracy at detecting the handwritten digits with a 99% accuracy. This model consists of techniques that prevent the overfitting of the model with the assistance of batch normalizaiton, and dropout methods. 
 
 
 <!--
