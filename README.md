@@ -13,7 +13,7 @@ Project | Analysis and Composition | Projection Description
 ---|---|---|
 [Image MNIST Classification](#image-mnist-classification)| CNN, Normalization, Confusion Matrix | Takes the builtin TensorFlow dataset, MNIST, and applied the Convolutional Neural Network to test the accuracy at detecting the handwritten digits with a 99% accuracy. This model consists of techniques that prevent the overfitting of the model with the assistance of batch normalizaiton, and dropout methods. 
 [Heart Disease Identification](#heart-disease-identification) | SVD, Binary Classification, Confusion Matrix | Using Heart.csv, the models were run to compare which model would do a better job at identifying the target response.
-[Bayesian Optimization](#Bayesian-Optimization) | Bayesian Optimization, Decision Tree, Visualization | Using library bayes.opt to create a bayesian optimization that would find the best parameters to the Gold Dataset.
+[Bayesian Optimization](#bayesian-optimization-implementation) | Bayesian Optimization, Decision Tree, Visualization | Using library bayes.opt to create a bayesian optimization that would find the best parameters to the Gold Dataset.
 
 ## RStudio
 
