@@ -7,7 +7,6 @@ Hi, I'm Simi. I am an undergraduate student majoring in data science and statist
 -[RStudio](#RStudio)
 -[C](#C)
 -[SQL](#SQL)
--[Julia](#Julia)
 
 ## Python
 Project | Analysis and Composition | Projection Description
@@ -16,7 +15,7 @@ Project | Analysis and Composition | Projection Description
 [Heart Disease Identification](#heart-disease-identification) | SVD, Binary Classification, Confusion Matrix | Using Heart.csv, the models were run to compare which model would do a better job at identifying the target response.
 [Bayesian Optimization](#Bayesian-Optimization) | Bayesian Optimization, Decision Tree, Visualization | Using library bayes.opt to create a bayesian optimization that would find the best parameters to the Gold Dataset.
 
-## Rstudio
+## RStudio
 
 ## C
 Project | Analysis and Composition | Project Description
