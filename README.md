@@ -19,16 +19,16 @@ Visualization: PowerBI
 ## Python
 Project | Analysis and Composition | Projection Description
 ---|---|---|
-[Image MNIST Classification](#image-mnist-classification)| CNN, Normalization, Confusion Matrix | Takes the builtin TensorFlow dataset, MNIST, and applied the Convolutional Neural Network to test the accuracy at detecting the handwritten digits with a 99% accuracy. This model consists of techniques that prevent the overfitting of the model with the assistance of batch normalizaiton, and dropout methods. 
-[Heart Disease Identification](#heart-disease-identification) | SVD, Binary Classification, Confusion Matrix | Using Heart.csv, the models were run to compare which model would do a better job at identifying the target response.
-[Bayesian Optimization](#bayesian-optimization-implementation) | Bayesian Optimization, Decision Tree, Visualization | Using library bayes.opt to create a bayesian optimization that would find the best parameters to the Gold Dataset.
+[Image MNIST Classification](https://github.com/patel-simi/MNIST?tab=readme-ov-file#image-mnist-classification)| CNN, Normalization, Confusion Matrix | Takes the builtin TensorFlow dataset, MNIST, and applied the Convolutional Neural Network to test the accuracy at detecting the handwritten digits with a 99% accuracy. This model consists of techniques that prevent the overfitting of the model with the assistance of batch normalizaiton, and dropout methods. 
+[Heart Disease Identification](https://github.com/patel-simi/HeartDisease?tab=readme-ov-file#heart-disease-identification) | SVD, Binary Classification, Confusion Matrix | Using Heart.csv, the models were run to compare which model would do a better job at identifying the target response.
+[Bayesian Optimization](https://github.com/patel-simi/bayesian_optimization?tab=readme-ov-file#bayesian-optimization-implementation) | Bayesian Optimization, Decision Tree, Visualization | Using library bayes.opt to create a bayesian optimization that would find the best parameters to the Gold Dataset.
 
 ## RStudio
 
 ## C
 Project | Analysis and Composition | Project Description
 ---|---|---|
-[Assign Seating](#assigned-seating) | DSA, Dynamic Memory Manipulation | Used data structures and dynamic memory manipulation to store orders, and seating. Stores information regarding the customers seating, and ways to remove order.
+[Assign Seating](https://github.com/patel-simi/assignedseat.c?tab=readme-ov-file#assigned-seating) | DSA, Dynamic Memory Manipulation | Used data structures and dynamic memory manipulation to store orders, and seating. Stores information regarding the customers seating, and ways to remove order.
 <!--
 **patel-simi/patel-simi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
