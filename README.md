@@ -3,17 +3,23 @@
 Hi, I'm Simi. I am an undergraduate student majoring in data science and statistics and minoring in mathematics. Here I have presented projects that demonstrate my growing skills learned through my education. 
 
 Connect with me:
+
 [LinkedIn](https://www.linkedin.com/in/simi-patel-a20615227/)
 
 ## Tools
 Language: SQL, Python, R, C 
+
 Database: PostgreSQL, MySQL
+
 Visualization: PowerBI
 
 ## Projects
 -[Python](#Python)
+
 -[RStudio](#RStudio)
+
 -[C](#C)
+
 -[SQL](#SQL)
 
 ## Python
