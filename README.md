@@ -11,10 +11,10 @@ Database: PostgreSQL, MySQL
 Visualization: PowerBI
 
 ## Projects
--[Python](#Python)  
--[RStudio](#RStudio)  
--[C](#C)  
--[SQL](#SQL)  
+[Python](#Python)  
+[RStudio](#RStudio)  
+[C](#C)  
+[SQL](#SQL)  
 
 ## Python
 Project | Analysis and Composition | Projection Description
