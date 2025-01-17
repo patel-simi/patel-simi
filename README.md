@@ -8,18 +8,13 @@ Connect with me:
 
 ## Tools
 Language: SQL, Python, R, C 
-
 Database: PostgreSQL, MySQL
-
 Visualization: PowerBI
 
 ## Projects
 -[Python](#Python)
-
 -[RStudio](#RStudio)
-
 -[C](#C)
-
 -[SQL](#SQL)
 
 ## Python
